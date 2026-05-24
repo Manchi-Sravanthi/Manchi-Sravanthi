@@ -19,7 +19,6 @@ I'm a **passionate Fresher Developer** dedicated to building innovative solution
 
 ### 💡 Quick Facts About Me
 - 🚀 Building projects to learn and master web development
-- 💬 Creating content on **YouTube, Medium, and Instagram** to help others learn
 - 🎓 Continuous learner exploring **ML & Deep Learning**
 - 🤝 Open to collaboration and contributing to open-source projects
 - ⚡ Fun fact: I believe in learning by doing!
@@ -55,8 +54,8 @@ I'm a **passionate Fresher Developer** dedicated to building innovative solution
 ## 📱 Connect With Me
 
 <div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avanthi_3010/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manchi-sravanthi-442a31310/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avanthi_3010/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manchi-sravanthi-442a31310/)
 
 </div>
 
@@ -92,7 +91,7 @@ I'm always excited to collaborate, discuss ideas, and grow together! Feel free t
 
 <div align="center">
 
-[**LinkedIn**](https://www.linkedin.com/in/manchi-sravanthi-442a31310/) • [**YouTube**](https://www.youtube.com/@Manchi-Sravanthi) • [**Medium**](https://medium.com/@manchi-sravanthi) • [**Instagram**](https://www.instagram.com/manchi_sravanthi) • [**GitHub**](https://github.com/Manchi-Sravanthi)
+[**LinkedIn**](https://www.linkedin.com/in/manchi-sravanthi-442a31310/) • [**Instagram**](https://www.instagram.com/manchi_sravanthi) • [**GitHub**](https://github.com/Manchi-Sravanthi)
 
 </div>
 

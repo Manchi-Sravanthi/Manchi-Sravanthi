@@ -53,12 +53,15 @@ I'm a **passionate Fresher Developer** dedicated to building innovative solution
 
 ## 📱 Connect With Me
 
-<div align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avanthi_3010/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manchi-sravanthi-442a31310/)
+<p align="left">
+  <a href="https://www.instagram.com/avanthi_3010/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-</div>
-
+  <a href="https://www.linkedin.com/in/manchi-sravanthi-442a31310/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Statistics
@@ -91,7 +94,17 @@ I'm always excited to collaborate, discuss ideas, and grow together! Feel free t
 
 <div align="center">
 
-[**LinkedIn**](https://www.linkedin.com/in/manchi-sravanthi-442a31310/) • [**Instagram**](https://www.instagram.com/manchi_sravanthi) • [**GitHub**](https://github.com/Manchi-Sravanthi)
+<a href="https://www.linkedin.com/in/manchi-sravanthi-442a31310/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/manchi_sravanthi" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/Manchi-Sravanthi" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
